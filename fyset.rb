@@ -1,7 +1,7 @@
 # Documentation: https://docs.brew.sh/Formula-Cookbook
 #                https://www.rubydoc.info/github/Homebrew/brew/master/Formula
 # PLEASE REMOVE ALL GENERATED COMMENTS BEFORE SUBMITTING YOUR PULL REQUEST!
-class Installer < Formula
+class Fyset < Formula
   desc "The installer for fyset setup"
   homepage ""
   url "https://github.com/fyset/installer/archive/v1.0.1.tar.gz"
